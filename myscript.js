@@ -27,4 +27,9 @@ let r= true
 let s= false
 let t= true
 
-console.log(a, b, c, d, e, f, g, h, i, j)
+// Operators
+console.log(a + b)
+console.log(f - g)
+console.log(h * i)
+console.log(j / l)
+console.log( p == r)
