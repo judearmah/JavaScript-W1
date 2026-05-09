@@ -1,4 +1,4 @@
-// strings
+// Strings
 let a= "Jude"
 let b= "Kofi"
 let c= "Ama"
